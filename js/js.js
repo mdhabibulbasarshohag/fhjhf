@@ -1,0 +1,32 @@
+function myFunc(body) {
+    document.getElementById("demo").innerHTML = "hello everyone!";
+    document.getElementById("demo").style.backgroundColor = "red";
+    document.getElementById("demo").style.height = "150px";
+    document.getElementById("demo").style.width = "150px";
+    document.getElementById("demo").style.transform = "rotate(360deg)";
+    document.getElementById("demo").style.transition = "5s";
+    document.getElementById("demo").style.borderRadius = "50%";
+    document.getElementById("demo").style.margin = "25px 0 0 85px";
+    document.getElementById("hello").style.width = "350px";
+    document.getElementById("hello").style.height = "200px";
+    document.getElementById("hello").style.transition = "5s";
+    document.getElementById("hello").style.transform = "rotate(360deg)";
+    document.getElementById("hello").style.backgroundColor = "green";
+    document.getElementById("hello").style.color = "red";
+    document.getElementById("hello").style.borderRadius = "0";
+    document.getElementById("hi").style.width = "20px";
+    document.getElementById("hi").style.height = "510px";
+    document.getElementById("hi").style.transition = "5s";
+    document.getElementById("hi").style.borderRadius = "0";
+    document.getElementById("hi").style.margin = "40px 0 0 -50px";
+    document.getElementById("hi1").style.width = "100px";
+    document.getElementById("hi1").style.height = "30px";
+    document.getElementById("hi1").style.margin = "550px 0 0 -85px";
+    document.getElementById("hi1").style.borderRadius = "0";
+    document.getElementById("hi1").style.transition = "5s";
+    document.getElementById("hi2").style.width = "150px";
+    document.getElementById("hi2").style.height = "50px";
+    document.getElementById("hi2").style.margin = "580px 0 0 -125px";
+    document.getElementById("hi2").style.borderRadius = "0";
+    document.getElementById("hi2").style.transition = "5s";
+}

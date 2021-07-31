@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body1 {
+    width: 1345px;
+    height: 244px;
+    float: left;
+    background-color: blue;
+}
+
+.body2 {
+    margin-top: -230px;
+    width: 1345px;
+    height: 244px;
+    float: left;
+    background-color: blue;
+}
+
+.body3 {
+
+    width: 1345px;
+    height: 244px;
+    float: left;
+    background-color: blue;
+}
+
+.body {
+    width: 200px;
+    height: 260px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.img {
+    width: 200px;
+    height: 0;
+    float: left;
+}
